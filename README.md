@@ -4,6 +4,8 @@
 - 💡 I'm interested in learning and utilizing new technologies and optimization techniques.
 - 🤝 Collaborating with teams and working on shared tasks is very exciting to me.
 - 🌱 I'm always eagerly learning and updating my skills.
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&label=%20&labelColor=grey&logoWidth=20&logoHeight=20)](https://www.buymeacoffee.com/resone)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramin-eslami-programer) 
@@ -25,7 +27,6 @@
 ## 📝 Contact:
 Feel free to reach out to me via [email](mailto:eslamiramin85@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramin-eslami-programer) for any further collaboration or inquiries.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/resone)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ResoneAt&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
