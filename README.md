@@ -6,7 +6,8 @@
 - 🌱 I'm always eagerly learning and updating my skills.
 
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&label=%20&labelColor=grey&logoWidth=20&logoHeight=20)](https://www.buymeacoffee.com/resone)
+<a href="https://www.buymeacoffee.com/resone" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&label=%20&labelColor=grey&logoWidth=30&logoHeight=30&color=%23ffdd00&logoRadius=15&labelFontSize=14" alt="Buy Me a Coffee"></a>
+
 
 
 ## 🌐 Socials:
