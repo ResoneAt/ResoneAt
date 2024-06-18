@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hello! I'm a software developer and enthusiast supporting programming.
+- 👋 Hello! I'm a software engineer and enthusiast supporting programming.
 - 🔭 My expertise lies in web development and software servers.
 - 💡 I'm interested in learning and utilizing new technologies and optimization techniques.
 - 🤝 Collaborating with teams and working on shared tasks is very exciting to me.
